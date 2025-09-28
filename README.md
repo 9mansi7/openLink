@@ -187,7 +187,7 @@ src/
 ![Add Post](src/assets/screenshot/localhost_5173_add_post(1).png)
 
 ### All Posts Page
-![All Posts](src/assets/screenshot/localhost_5173_add-post(1).png)
+![All Posts](src/assets/screenshot/localhost_5173_add_post.png)
 
 ### SignUp Page
 ![SignUp](src/assets/screenshot/localhost_5173_add_post(2).png)
