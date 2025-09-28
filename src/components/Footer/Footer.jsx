@@ -14,7 +14,7 @@ function Footer() {
                 <Logo width="80px" />
               </div>
               <p className="text-xs sm:text-sm">
-                &copy; {new Date().getFullYear()} All Rights Reserved by garvit811.
+                &copy; {new Date().getFullYear()} All Rights Reserved by 9mansi7.
               </p>
             </div>
           </div>
