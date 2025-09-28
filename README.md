@@ -190,7 +190,7 @@ src/
 ![All Posts](./src/assets/screenshot/localhost_5173_add-post(1).png)
 
 ### SignUp Page
-![SignUp](./src/assets/screenshot/localhost_5173_add-post(2).png)
+![SignUp](src/assets/screenshot/localhost_5173_add_post(2).png)
 
 ---
 
