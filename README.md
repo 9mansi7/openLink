@@ -184,10 +184,10 @@ src/
 ## 📸 Screenshots
 
 ### Add Post Page
-![Add Post](./src/assets/screenshot/localhost_5173_add-post.png)
+![Add Post](src/assets/screenshot/localhost_5173_add-post.png)
 
 ### All Posts Page
-![All Posts](./src/assets/screenshot/localhost_5173_add-post(1).png)
+![All Posts](src/assets/screenshot/localhost_5173_add-post(1).png)
 
 ### SignUp Page
 ![SignUp](src/assets/screenshot/localhost_5173_add_post(2).png)
